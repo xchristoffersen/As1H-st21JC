@@ -1,0 +1,16 @@
+---
+title: "Can R Notebook help with reproducibility?"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+Introduction
+
+Short literature review
+
+Discussion
+
+Conclusion
+
+References
